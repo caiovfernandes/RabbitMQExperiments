@@ -44,8 +44,3 @@
 - Nesta seção, vamos usar RabbitMQ para construir um sistema RPC: um cliente e um servidor RPC escalonável.
 1. Em um terminal, inicie o server executando `python RPC/rpc_server.py`
 2. Em um segundo terminal, envie uma mensagem com o comando `python RPC/rpc_client.py`
-
-## 6. `PublisherConfirms`
-- Nesta seção, vamos usar Publisher Confirms para garantir que as mensagens publicadas cheguem com segurança ao broker.
-1. Em um terminal, inicie o server executando `python RPC/rpc_server.py`
-2. Em um segundo terminal, envie uma mensagem com o comando `python RPC/rpc_client.py`
