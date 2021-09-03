@@ -1,4 +1,9 @@
-## Pre-requisitos para rodar os projetos
+# Pre-requisitos
+
+## 1. RabbitMQ Broker
+Este tutorial assume que o RabbitMQ está instalado e em execução no `localhost` na porta padrão (5672).
+Caso  você utilize um host, porta ou credenciais diferentes, as configurações de conexão precisariam ser ajustadas.
+## 2. Ambiente Python
 1. Na raíz do projeto, criar um virtual environment python com o comando:
 ```
     python3 -m venv venv
