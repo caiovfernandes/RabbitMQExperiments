@@ -17,7 +17,7 @@ _Put an `x` in the boxes that apply. You can also fill these out after creating 
 
 - [ ] I have read the [CONTRIBUTING](https://github.com/appium/appium/blob/master/CONTRIBUTING.md) doc
 - [ ] I have added necessary documentation (if appropriate)
-- [ ] Any dependent changes have been merged and published in downstream modules
+- [ ] Any dependent chan ges have been merged and published in downstream modules
 
 ## Further comments
 
