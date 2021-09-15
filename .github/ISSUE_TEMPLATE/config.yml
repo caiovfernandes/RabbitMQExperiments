@@ -1,8 +1,7 @@
 blank_issues_enabled: false
 contact_links:
-  - name: GitHub Community Support
-    url: https://github.community/
-    about: Please ask and answer questions here.
-  - name: GitHub Security Bug Bounty
-    url: https://bounty.github.com/
-    about: Please report security vulnerabilities here.
+  - name: DNX One Documentation
+    url: https://docs.dnx.one
+    about: At DNX we help your business build better solutions by upgrading how delivery is done, leaving behind manual processes and embracing an automated, cloud-native way of working.
+  - name: About us
+    url: https://dnx.solutions/about-us/
